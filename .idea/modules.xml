@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC120_LAB.iml" filepath="$PROJECT_DIR$/CSC120_LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB0/LAB0.iml" filepath="$PROJECT_DIR$/LAB0/LAB0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/LAB1/LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/LAB2/LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB3/LAB4.iml" filepath="$PROJECT_DIR$/LAB3/LAB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB5/LAB5.iml" filepath="$PROJECT_DIR$/LAB5/LAB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB6/LAB6.iml" filepath="$PROJECT_DIR$/LAB6/LAB6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB7/LAB7.iml" filepath="$PROJECT_DIR$/LAB7/LAB7.iml" />
+    </modules>
+  </component>
+</project>
