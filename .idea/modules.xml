@@ -5,12 +5,20 @@
       <module fileurl="file://$PROJECT_DIR$/CSC120_LAB.iml" filepath="$PROJECT_DIR$/CSC120_LAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB0/LAB0.iml" filepath="$PROJECT_DIR$/LAB0/LAB0.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/LAB1/LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB10/LAB10.iml" filepath="$PROJECT_DIR$/LAB10/LAB10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB11/LAB11.iml" filepath="$PROJECT_DIR$/LAB11/LAB11.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/LAB2/LAB2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB3/LAB4.iml" filepath="$PROJECT_DIR$/LAB3/LAB4.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB5/LAB5.iml" filepath="$PROJECT_DIR$/LAB5/LAB5.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB6/LAB6.iml" filepath="$PROJECT_DIR$/LAB6/LAB6.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB7/LAB7.iml" filepath="$PROJECT_DIR$/LAB7/LAB7.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB8/LAB8.iml" filepath="$PROJECT_DIR$/LAB8/LAB8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB9/LAB9.iml" filepath="$PROJECT_DIR$/LAB9/LAB9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab14/Lab14.iml" filepath="$PROJECT_DIR$/Lab14/Lab14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1/Project1.iml" filepath="$PROJECT_DIR$/Project1/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2/Project2.iml" filepath="$PROJECT_DIR$/Project2/Project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2Boat/Project2Boat.iml" filepath="$PROJECT_DIR$/Project2Boat/Project2Boat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2/Project2Rough.iml" filepath="$PROJECT_DIR$/Project2/Project2Rough.iml" />
     </modules>
   </component>
 </project>
